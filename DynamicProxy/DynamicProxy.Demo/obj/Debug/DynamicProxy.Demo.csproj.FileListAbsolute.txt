@@ -1,0 +1,7 @@
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Demo\bin\Debug\DynamicProxy.Demo.exe
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Demo\bin\Debug\DynamicProxy.Demo.pdb
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Demo\obj\Debug\DynamicProxy.Demo.exe
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Demo\obj\Debug\DynamicProxy.Demo.pdb
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Demo\bin\Debug\DynamicProxy.Core.dll
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Demo\bin\Debug\DynamicProxy.Core.pdb
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Demo\obj\Debug\DynamicProxy.Demo.csprojResolveAssemblyReference.cache

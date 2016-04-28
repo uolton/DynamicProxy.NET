@@ -1,0 +1,4 @@
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Core\bin\Release\DynamicProxy.Core.dll
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Core\bin\Release\DynamicProxy.Core.pdb
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Core\obj\Release\DynamicProxy.Core.dll
+D:\NoYes\DynamicProxy\DynamicProxy\DynamicProxy.Core\obj\Release\DynamicProxy.Core.pdb
